@@ -1,5 +1,5 @@
-# pandas-challenge
-Observations from the data:
+# pandas-challenge 
+Observations from the video game data:
 
 1) a significant majority of the purchasers are men (84%)
 2) a majority of the purchasers (63%) are between 20-24
