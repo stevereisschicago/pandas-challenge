@@ -1,4 +1,8 @@
 # pandas-challenge 
+
+Finished HW file: HeroesOfPymoji_Final
+
+
 Observations from the video game data:
 
 1) a significant majority of the purchasers are men (84%)
