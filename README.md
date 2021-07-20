@@ -1,6 +1,7 @@
 # pandas-challenge 
 
 Finished HW file: HeroesOfPymoji_Final
+had some issues with naming of my main directory and didn't want to erase anything my mistake - so using the "test" branch 
 
 
 Observations from the video game data:
