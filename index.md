@@ -16,7 +16,7 @@ table, th, td {
 <h1>Heroes of Pymoji Data Summary</h1><br>
 <br>
 
-<img src="Fantasy Image.png" alt="This is the picture we used for the homework" width="250" height="250">
+<img src="./Fantasy Image.png" alt="This is the picture we used for the homework" width="250" height="250">
 
 <br>
 
